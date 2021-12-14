@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+.button {
+	width: 100px;
+	height: 25px;
+	padding: 10px;
+	text-align: center;
+	display: inline-block
+}
+.button:hover {background-color: #57C8F1}
+
+nav{
+	background-color: #252522;
+	text-align: center	
+}
+
+a{
+	color: #FFFFFF
+}
+.big {text-align: center; 
+	background-color: #7B78
+}
+.small {
+	text-align: center;
+	display: inline-block;
+	width: 225px;
+	height: 400px;
+	margin-top: 30px;
+	margin-left: 10px
+}
+input {
+	background-color: #4CEF96;
+	border: none;
+	color: black;
+	display: inline-block;
+	padding: 10px;
+	cursor: pointer;
+}
+.name {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+.header {
+	border: none;
+	text-align: center;
+	height: 100px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif" 
+	;color: #37a785
+}
+.titular {
+	padding-top: 25px
+}
+
+.video {
+	text-align: center;
+	margin-top: 30px;
+}
+.article {
+	text-align: center;
+	border: none;
+	padding: 15px;
+	background-color: antiquewhite
+}
+.concierto {
+	border: none;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: center;
+	background-color: azure
+}
+footer{ 
+	
+	border: groove; 
+	padding-left: 20px; 
+	padding-right: 10px; 
+	background-color: #585455; 
+	height: 150px; 
+	text-align: center; 
+	padding-top: 30px
+}
+article {
+	border: groove; 
+	width: 300px; 
+	height: auto; 
+	margin: auto;
+	margin-top: 30px
+ 
+}
+
+.explain {
+	border: ridge; 
+	margin: auto; 
+	width: 500px; 
+	padding-left: 20px; 
+	padding-right: 20px;
+	margin-bottom: 30px;
+}
+body {}
+	
